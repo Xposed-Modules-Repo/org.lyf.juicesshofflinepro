@@ -4,11 +4,12 @@ Legacy Xposed/LSPosed API 82-compatible module for keeping a legitimate JuiceSSH
 
 ## Source / 引用来源
 
-This repository publishes the module to `Xposed-Modules-Repo` and is based on the original upstream project by `li-yifei`:
+This Xposed-Modules-Repo entry republishes the upstream project by `li-yifei`:
 
 - Upstream repository: <https://github.com/li-yifei/JuiceSSHOfflineProFix>
 - Upstream author: `li-yifei`
 - Package name: `org.lyf.juicesshofflinepro`
+- Canonical source: <https://github.com/li-yifei/JuiceSSHOfflineProFix>
 
 This mirror keeps the original license and source history context through explicit attribution.
 
